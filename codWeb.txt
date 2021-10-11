@@ -1,0 +1,7 @@
+https://github.com/open-mmlab/OpenPCDet (Detection code)
+
+https://github.com/traveller59/spconv  (Network code)  At first, you need to install this code.
+
+
+
+RTX2080      torch 1.4.0         cuda 10.1   ubuntu16.04
